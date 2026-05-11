@@ -44,9 +44,6 @@ style="margin-left: 20px;" />
 
    <img src="/imgs/img2.png" width="15"/>
    <em><b> Competitive Programming Enthusiast </b></em><br/>
-
-   <img src="/imgs/img1.png" width="15"/>
-   <em><b> Chess Player </b></em><br/>
 </p>
 
 <br/>
