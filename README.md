@@ -5,17 +5,6 @@
   <a href="https://profile.hackthebox.com/profile/019e14e2-6bf4-704c-8396-f72ccad64e5c" target="_blank"> 
     <img src="https://img.shields.io/badge/Hack%20The%20Box-000000?style=for-the-badge&logo=hackthebox&logoColor=green" />
   </a>
-
-
-  <a href="https://codeforces.com/profile/Glorfindell?csrf_token=bcab48565089a48c886f5cdb2c9a4ff5" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://es.pinterest.com/Glorffindel/_pins/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
-  </a>
-  <a href="https://www.chess.com/member/glorffindel" target="_blank">
-    <img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" />
-  </a>
 </p>
 
 <br>
@@ -33,18 +22,16 @@ style="margin-left: 20px;" />
 <br/>
 
 <p>
-  Hello there! <em><b>I'm Minos </b></em>, a student of
-  <b>Systems and Information Engineering</b> passionate about technology,
-  software development, and continuous learning.
+  Hello there! <em><b>I'm Minos</b></em>, a student of
+  <b>Systems and Information Engineering</b> focused on the world of
+  <b>Cybersecurity</b>, ethical hacking, and continuous learning.
   
-  I enjoy solving problems through competitive programming and building
-  projects that help me improve my skills in web development, programming,
-  and software design.
-  
-  Currently, I am expanding my knowledge in
-  <b>Cybersecurity</b>, learning about ethical hacking, system security,
-  networking, Linux environments, and secure development practices.
+  Currently, I am strengthening my knowledge in areas such as
+  penetration testing, Linux environments, networking, system security,
+  vulnerability analysis, digital security practices, and cybersecurity tools.
 </p>
+```
+
 
 <br/>
 
