@@ -75,12 +75,3 @@ style="margin-left: 20px;" />
 </p>
 
 <br/>
-
-<h2 align="center">
-  <img src="/imgs/title3.png" width="25"/>
-  <em> Statistics </em>
-</h2>
-
-<div align="center">
-  <img src="https://ingenieriadesoftware.es/wp-content/uploads/2017/11/GitHub-ES-imageonly.png"/>
-</div> 
